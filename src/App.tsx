@@ -11,6 +11,7 @@ import Muirating from './components/Muirating';
 import Muiautocomplete from './components/Muiautocomplete';
 // import Muilaylout from './components/muilaylout';
 import Muistack from './components/Muistack';
+import Muipaper from './components/Muipaper';
 function App() {
   return (
     <div className="App">
@@ -25,7 +26,8 @@ function App() {
 {/* <Muirating /> */}
 {/* <Muiautocomplete /> */}
 {/* <Muilaylout /> */}
-<Muistack />
+{/* <Muistack /> */}
+<Muipaper />
     </div>
   );
 }
